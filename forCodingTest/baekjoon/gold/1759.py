@@ -9,5 +9,3 @@ for i in combinations(lst, l):
     for u in i:
         print(u, end='')
     print()
-
-2
